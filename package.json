@@ -1,0 +1,11 @@
+{
+  "name": "node-soap",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/casc3798/node-soap.git",
+  "author": "Camilo Sanchez <casc3798@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^1.0.0"
+  }
+}
